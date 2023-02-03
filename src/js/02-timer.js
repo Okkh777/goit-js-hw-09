@@ -1,11 +1,6 @@
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
 import Notiflix from 'notiflix';
-//import timezz from 'timezz';
-
-// timezz(document.querySelector('.timer'), {
-//   date: new Date(),
-// });
 
 const refs = {
     input: document.querySelector('#datetime-picker'),
